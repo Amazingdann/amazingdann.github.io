@@ -95,6 +95,7 @@ body{
 .lager{
     grid-area: lager;
 }
+
 footer{
     background-color: #1d1016 ;
     color: white;
@@ -133,3 +134,4 @@ footer div div h2{
         max-width: 330px;
     }
 }
+
